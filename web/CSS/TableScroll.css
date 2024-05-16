@@ -1,0 +1,17 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 17/03/2024, 09:55:34 PM
+    Author     : ASUS
+*/
+
+.my-custom-scrollbar {
+    position: relative;
+    height: 700px;
+    overflow: auto;
+}
+.table-wrapper-scroll-y {
+    display: block;
+}
